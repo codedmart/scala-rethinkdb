@@ -1,0 +1,26 @@
+# Scala, Sbt
+target
+*.class
+
+# Intellij
+*.iml
+*.ipr
+*.iws
+.idea
+out
+
+# Eclipse
+build
+.classpath
+.project
+.settings
+org.scala-ide.sdt.core/META-INF/MANIFEST.MF
+org.scala-ide.sdt.update-site/site.xml
+
+# Vim
+tags
+.*.swp
+.*.swo
+
+# OS X
+.DS_Store
