@@ -9,27 +9,27 @@ There are currently 2 drivers for Scala that you should look at.
 * [rql-scala](https://github.com/esycat/rql-scala)
 
 ## TODO
-- [  ] Connection
+- [ ] Connection
   - [x] connect
     - [x] auth
     - [x] pass in defaultDb (use)
   - [x] close
   - [x] reconnect
-  - [  ] use
-  - [  ] run
-  - [  ] noreplyWait
-- [  ] Cursor
-- [  ] Databases
-- [  ] Tables
-- [  ] Writing
-- [  ] Selecting
-- [  ] Joins
-- [  ] Transformations
-- [  ] Aggregation
-- [  ] Document Manipulation
-- [  ] String Manipulation
-- [  ] Math and Logic
-- [  ] Dates and Times
-- [  ] Control Structures
-- [  ] Geospatial
-- [  ] Administration
+  - [ ] use
+  - [ ] run
+  - [ ] noreplyWait
+- [ ] Cursor
+- [ ] Databases
+- [ ] Tables
+- [ ] Writing
+- [ ] Selecting
+- [ ] Joins
+- [ ] Transformations
+- [ ] Aggregation
+- [ ] Document Manipulation
+- [ ] String Manipulation
+- [ ] Math and Logic
+- [ ] Dates and Times
+- [ ] Control Structures
+- [ ] Geospatial
+- [ ] Administration
